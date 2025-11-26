@@ -38,8 +38,11 @@ Use:
 Enter choice: 1
 
 Enter Name: Ramesh
+
 Enter Salary: 45000
+
 Enter Department: IT
+
 1 Employee Added!
 
 
